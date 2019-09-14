@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "11710996225",
+    "firebase_url": "https://aidolsfirebase.firebaseio.com",
+    "project_id": "aidolsfirebase",
+    "storage_bucket": "aidolsfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11710996225:android:24bae5966906230986c500",
+        "android_client_info": {
+          "package_name": "com.justbetterdesignz.aidols"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11710996225-5euieni0vf53dmlug6kqpg35p5anjh6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justbetterdesignz.aidols",
+            "certificate_hash": "f486a4355a4112a254b13772c19c5712db29a656"
+          }
+        },
+        {
+          "client_id": "11710996225-oscd18foi3j87kbakas9qg47ii1t8r8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswf2I5mgLe8dfeZgRH9D4I_nQZf8JRi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11710996225-oscd18foi3j87kbakas9qg47ii1t8r8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
